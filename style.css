@@ -1,0 +1,14 @@
+
+body {
+    background: beige;
+}
+
+.text_h1 {
+    color: brown;
+    font-family: verdana;
+}
+
+.text_h3 {
+    font-family: verdana;
+    text-decoration: underline;
+}
