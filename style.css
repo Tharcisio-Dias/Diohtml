@@ -12,3 +12,15 @@ body {
     font-family: verdana;
     text-decoration: underline;
 }
+header{
+    background-color: ghostwhite;
+}
+
+button.espacamento {
+    margin-right: 100px; /* Espaço à direita de cada botão */
+}
+
+/* Remove o espaço à direita do último botão */
+button.espacamento:last-child {
+    margin-right: 0;
+}
